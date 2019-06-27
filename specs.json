@@ -1,0 +1,6 @@
+{
+	"username": "Simple Bot",
+	"creator": "mat#9090",
+	"lang": "Node.js and Discord.js",
+	"footer": "Simple BOT | Criado Por: ${specs.creator}"
+}
