@@ -1,4 +1,4 @@
-# Simple Bot
+# Primeiras Impressões
 ---
 
 Olá! Eu sou o Criador do **Simple Bot**, o **mat.fer**, Provavelmente você não está lendo isto, mas leia! pode ser importante,
@@ -9,7 +9,8 @@ me deu uma coisa, que não consigo explicar, é como se eu quisesse aprender mai
 que tal, no meu primeiro bot *upado no github*, eu podesse, ajudar alguém? Bom, Provavelmente já ajudei muita gente até
 e é uma historinha meio chatinha né, vamos lá para os Básicos do Bot!
 
-# BOT's Basics | O Básico do Bot
+
+# O Básico do Bot
 ---
 
 Para Você instalar o Bot, é bem simples, só clicar neste Botão:
