@@ -6,7 +6,7 @@ const config = require('./config.json');
 var specs_username = specs.username;
 var specs_creator = specs.creator;
 var specs_lang = specs.lang;
-var specs_footer = specs.footer; // AO USAR O SPECS_FOOTER FAÇA O SEGUINTE: `Em Embeds` .setFooter(`${specs_footer}`).
+var specs_footer = specs.footer; // AO USAR O SPECS_FOOTER FAÇA O SEGUINTE: `Em Embeds` .setFooter(`${specs_footer}`). `Em Replies ou em Mensagens` message.reply(`${specs_footer}`) || message.channel.send(`${specs_footer}`)
 
 var token = config.token; // TROQUE O TOKEN POR O DE SEU BOT
 var prefix = config.prefix; // TROQUE O PREFIX PELO OQUE VOCÊ GOSTE
