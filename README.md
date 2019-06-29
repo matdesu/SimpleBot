@@ -1,5 +1,4 @@
 # Primeiras Impressões
----
 
 Olá! Eu sou o Criador do **Simple Bot**, o **mat.fer**, Provavelmente você não está lendo isto, mas leia! pode ser importante,
 e também uma correção de alguns bugs!
@@ -11,7 +10,6 @@ e é uma historinha meio chatinha né, vamos lá para os Básicos do Bot!
 
 
 # O Básico do Bot
----
 
 Para Você instalar o Bot, é bem simples, só clicar neste Botão:
 
@@ -40,3 +38,10 @@ que eu achei para o JavaScript :confused:
 É Bem simples Instalar a Biblioteca do Discord, por isto usamos o [**node.js**](https://nodejs.org/en/download/), para isto
 Primeiro, vamos iniciá-lo com: `npm init`, e agora fazemos, no terminal, o seguinte código `npm i discord.js --save`, 
 que assim ele instala a biblioteca do discord, e salva em nossa pasta do bot!
+
+---
+
+*Voltando ao Bot*, No Console, pode ser escrito, para inciar o bot, comandos como `node main.js // node start // node .`, e entre outros, bom se chegou até aqui, quer dizer que você leu! :tada:, Bom Fico Por Aqui! Bye! :wave:
+
+---
+**mat.fer**
